@@ -10,7 +10,7 @@
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-mate-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-mate-attach-themes) |
 | `=` |
-| [ubuntu-iso-builder-include-pacstall-mate-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-mate-theme-vimix) |
+| [ubuntu-iso-builder-include-pacstall-mate-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-mate-attach-themes) |
 
 
 
